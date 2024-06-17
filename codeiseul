@@ -1,0 +1,20 @@
+titlei {
+font-family: 'DM Serif Display', serif; 
+font-style: normal;
+font-size: 16px; 
+font-weight: 500; 
+font-display: swap; color: var(--accentClr); 
+ }
+
+quote { font-family: 'Lato',sans-serif; 
+font-weight: 100;
+font-style: italic;
+ }
+
+npiseul { 
+font-family: 'DM Serif Display', serif; 
+font-style: normal;
+font-size: 14px;
+font-weight: 500
+font-display: swap; 
+ }
